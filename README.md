@@ -3,7 +3,7 @@
 **I work where software meets the customer.** A messy business need comes in — I make it clear, cut it to what can ship,
 build it end to end, and stay until it works in the customer's real flow.
 
-For 4 years I did this on a trade-finance platform where banks, shippers and carriers act on one legal document —
+After 10 years of shipping web products, the last 4 were on a trade-finance platform where banks, shippers and carriers act on one legal document —
 where a wrong permission is a legal problem, not a bug. Now I'm bringing AI into that loop.
 
 ---
