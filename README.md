@@ -1,4 +1,4 @@
-# Hey, I'm Mikheil 👋
+# Hey, I'm Mike 👋
 
 **I work where software meets the customer.** A messy business need comes in — I make it clear, cut it to what can ship,
 build it end to end, and stay until it works in the customer's real flow.
