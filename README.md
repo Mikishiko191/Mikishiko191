@@ -44,3 +44,5 @@ Testing     Vitest · Playwright · Testcontainers (real Postgres)
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/mikheil-ambukadze-13b048135/)
+
+Currently open to new roles.
