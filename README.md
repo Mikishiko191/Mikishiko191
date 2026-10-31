@@ -41,3 +41,5 @@ Frontend    React 19 · Next.js · Vue · Angular · TypeScript · Three.js
 Testing     Vitest · Playwright · Testcontainers (real Postgres)
 ```
 
+
+[LinkedIn](https://www.linkedin.com/in/mikheil-ambukadze-13b048135/)
