@@ -34,7 +34,7 @@ where a wrong permission is a legal problem, not a bug. Now I'm bringing AI into
 ### Technical depth
 
 ```text
-Backend     Node.js · NestJS · PostgreSQL · Redis · REST · GraphQL · WebSockets
+Backend     Node.js · NestJS · Python · FastAPI · PostgreSQL · Redis · REST · GraphQL · WebSockets
 AI          LLM structured output · MCP · tool-calling agents · Claude Code
 Frontend    React 19 · Next.js · Vue · Angular · TypeScript · Three.js
 Testing     Vitest · Playwright · Testcontainers (real Postgres)
