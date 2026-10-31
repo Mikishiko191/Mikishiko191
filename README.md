@@ -55,4 +55,4 @@ Testing     Vitest · Playwright · Testcontainers (real Postgres)
 
 [LinkedIn](https://www.linkedin.com/in/mikheil-ambukadze-13b048135/)
 
-Currently open to new roles.
+Currently open to new roles — forward-deployed and full-stack engineering, close to customers, bringing AI into real products.
