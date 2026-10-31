@@ -1,53 +1,51 @@
 # Hey, I'm Mike 👋
 
-**I work where software meets the customer.** A messy business need comes in — I make it clear, cut it to what can ship,
-build it end to end, and stay until it works in the customer's real flow.
+I'm a software engineer who enjoys working close to the people who use what I build. I take business problems that aren't fully defined, figure out what needs to be built, and see the solution through to production.
 
-After 10 years of shipping web products, the last 4 were on a trade-finance platform where banks, shippers and carriers act on one legal document —
-where a wrong permission is a legal problem, not a bug. Now I'm bringing AI into that loop.
+I've spent 10 years building web products. For the last 4 years, I've been working on a trade-finance platform where banks, shippers and carriers work with the same legal documents. Getting permissions and workflows right matters there, because mistakes have real business and legal consequences. These days I'm exploring how AI can make products like that easier to use, without losing control of what happens behind the scenes.
 
 ---
 
-### How I take a customer problem
+### How I approach a project
 
-1. **Make it clear** — work with product and sales until everyone agrees what "done" means.
-2. **Cut it** — what ships in three weeks, what waits for the next round.
-3. **Build it end to end** — data model, API, permissions, UI, the outside systems it has to talk to.
-4. **Prove it in their flow** — staging, the real workflow, feedback, next round.
+- **Understand the problem** — work with product and sales to figure out what customers are actually trying to solve.
+- **Keep the scope realistic** — decide what makes sense to build now and what can wait.
+- **Own the implementation** — database, API, permissions, frontend and the outside systems it has to talk to.
+- **Get it into real use** — test it in the real workflow, collect feedback, improve it.
 
 ---
 
 ### What I've delivered
 
-**Integrations with outside systems** — EU customs filing behind a per-company adapter: each customer plugs in its own provider, the platform itself never changes.
+**Integrations with external systems** — built an adapter-based integration for EU customs filing. Each company can connect its own provider without changes to the platform.
 
-**Multi-party workflows** — approvals, endorsements, transfers, releases: several companies on one document, the right permissions at every step.
+**Multi-party workflows** — approvals, endorsements, transfers and releases for several companies sharing one document, with the right permissions at each step.
 
-**Safe changes in a live product** — a login rewrite where old and new ran side by side, and nobody got locked out.
+**Changes to a live product** — rewrote the login flow with the old and new versions running side by side, so existing users weren't disrupted.
 
-**AI for business users** — the user flow for "create a document with AI": drop in files, get drafts in the right template.
+**AI-assisted document creation** — built the workflow where users upload source files and get AI-generated document drafts in the required template.
 
 ---
 
-### Building now: AI-first interfaces
+### What I'm building now
 
-**Cargo X-ray** — ask *"show hazardous cargo over 2 tons"* and it lights up in 3D. The AI turns the question into a checked command; it never touches the data.
+**Cargo X-ray** — a 3D cargo visualization where you can ask things like *"show hazardous cargo over 2 tons"*. The AI translates the request into a structured command, which the application validates before executing it. The AI never queries or changes the data directly.
 
-**GeoLight** — sell apartments in a building that doesn't exist yet: a night view where matching windows glow. A new building is new data, not new code.
+**GeoLight** — apartment sales for buildings that don't exist yet: matching apartments light up in a 3D night view. The goal is one interface that works for any building through data, not new code.
 
-**MeterProofBill** — usage billing on a real ledger, with a bill that explains itself to the customer.
+**MeterProofBill** — usage-based billing on an auditable ledger. The goal is that every number on an invoice can be traced, so customers understand where their bill comes from.
 
 ---
 
 ### Technical depth
 
-```text
-Backend     Node.js · NestJS · Python · FastAPI · PostgreSQL · Redis
-APIs        REST · GraphQL · WebSockets · Connect RPC / Protobuf
-AI          LLM structured output · MCP · tool-calling agents · Claude Code
-Frontend    React 19 · Next.js · Vue · Angular · TypeScript · Three.js
-Testing     Vitest · Playwright · Testcontainers (real Postgres)
-```
+| Area | Technologies |
+|---|---|
+| Backend | Node.js, NestJS, Python, FastAPI, PostgreSQL, Redis |
+| APIs | REST, GraphQL, WebSockets, Connect RPC, Protobuf |
+| AI | LLM structured output, MCP, tool-calling agents, Claude Code |
+| Frontend | React 19, Next.js, Vue, Angular, TypeScript, Three.js |
+| Testing | Vitest, Playwright, Testcontainers |
 
 ---
 
@@ -55,4 +53,4 @@ Testing     Vitest · Playwright · Testcontainers (real Postgres)
 
 [LinkedIn](https://www.linkedin.com/in/mikheil-ambukadze-13b048135/)
 
-Currently open to new roles — forward-deployed and full-stack engineering, close to customers, bringing AI into real products.
+Currently looking for forward-deployed or full-stack engineering roles where I can work directly with customers and take ideas from the initial problem through to production.
